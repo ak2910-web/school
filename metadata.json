@@ -1,0 +1,6 @@
+{
+  "name": "Student Growth Intelligence App",
+  "description": "An Android application designed to track students' both academic and non-academic performances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

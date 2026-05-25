@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Clean modern drop shadow vector behind crest -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M 56,26 L 80,34 L 80,56 C 80,74 56,86 56,86 C 56,86 32,74 32,56 L 32,34 Z" />
+    
+    <!-- Outer Shield Crest representing authority/safety -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,24 L 78,32 L 78,54 C 78,72 54,84 54,84 C 54,84 30,72 30,54 L 30,32 Z" />
+
+    <!-- Inner Shield Infill to create sophisticated hollow border -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M 54,28 L 74,35 L 74,54 C 74,68 54,79 54,79 C 54,79 34,68 34,54 L 34,35 Z" />
+
+    <!-- Highlight star of growth -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,38 L 56,43 L 61,43 L 57,46 L 59,51 L 54,48 L 49,51 L 51,46 L 47,43 L 52,43 Z" />
+
+    <!-- Open book of knowledge at shield base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 54,68 C 54,68 46,64 38,65 L 38,53 C 46,52 54,56 54,56 C 54,56 62,52 70,53 L 70,65 C 62,64 54,68 54,68 Z" />
+    
+    <!-- Divider line on the book -->
+    <path
+        android:strokeWidth="1.5"
+        android:strokeColor="#2563EB"
+        android:pathData="M 54,56 L 54,67" />
+</vector>
